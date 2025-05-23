@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j-worksolution.com/sitemap.xml
